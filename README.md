@@ -9,7 +9,7 @@ implement zonal OCR and optionally other types of template based recognition
 The reader is a sample tool that shows how to consume the template and apply it 
 to the actual recognition tasks
 
-This is the C# version
+This sample app is C# only. There is no VB.NET Version.
 
 ## Prerequisites
 This demo assumes you have the Atalasoft DotImage SDK installed and licensed for 
