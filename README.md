@@ -19,12 +19,12 @@ you must have a license for our Bacode Reading addon.
 
 You may also request a 30 day evaluation when installing / activating.
 
-[Download DotImage](https://www.atalasoft.com/BeginDownload/DotImageDownloadPage)
+[Download DotImage](https://www.atalasoft.(mailto:sales@atalasoft.com)/BeginDownload/DotImageDownloadPage)
 
 ## Cloning
 We recommend the following to ensure you clone with the required submodule
 
 Example: git for windows
 ```bash
-git clone https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64.git DocumentRegionsDemo
+git clone https://github.(mailto:sales@atalasoft.com)/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64.git DocumentRegionsDemo
 ```
